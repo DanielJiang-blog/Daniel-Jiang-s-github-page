@@ -1,7 +1,18 @@
-<!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+        <head>
+
+            <title> Intro to Web Dev 
+            </title>
+            <body style="background-color:aliceblue">
+                
+            </body>
+
+            <main>
+                <h1 style="text-align: center"> IWB Miguel Maldonado
+                    Welcome :)</h1>
+                <img style=left: src=131-Lapras.webp alt="Trulli" width="134.5" height="158">
+                
+                <h1 style="text-align: ;left"> Assignment 1</h1>
+                <h1 style="text-align: ;left"> Assignment 2</h1>
+            </main>
+        </head>
